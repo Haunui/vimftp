@@ -1,0 +1,4 @@
+open {address}
+user {user} {password}
+ls {path}
+bye
